@@ -5,7 +5,7 @@ import java.math.BigInteger;
 import java.util.*;
 
 
-public class CatalogPlacementsFlexible {
+public class CatalogFlexible {
 
     // Decode y from given base as BigInteger (handles large values)
     public static BigInteger decodeBase(String yStr, int base) {
